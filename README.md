@@ -2,7 +2,7 @@
 
 This project serves as an example to serve Machine Learning models using `Linfa` and `Linfa-trees` and `ndarray` to deal with the data.
 
-**HUGE** shoutouts to [Kyle Kosic](https://github.com/kykosic) Kyle Kosic, as its project was used a template to build this one.
+**HUGE** shoutouts to [Kyle Kosic](https://github.com/kykosic), as its project was used a template to build this one.
 
 ## Serving the model on local
 
